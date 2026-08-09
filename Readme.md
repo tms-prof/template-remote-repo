@@ -9,3 +9,8 @@
 
 
 ## Usando a GUI do vs code (lado esquerdo do explorer)
+
+## Nesse repo há um arquivo em python que ao rodar (python app.py) coloca um modal com um botão em uma gui que ao ser acionado chama outra caixa de diálogo com uma mensagem ("Hello world!").
+
+## ALtere a mensagem par algo diferente e registre com git ( add . commit -m "") e envie para o repo remoto do github.
+
