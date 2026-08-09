@@ -12,5 +12,7 @@
 
 ## Nesse repo há um arquivo em python que ao rodar (python app.py) coloca um modal com um botão em uma gui que ao ser acionado chama outra caixa de diálogo com uma mensagem ("Hello world!").
 
-## ALtere a mensagem par algo diferente e registre com git ( add . commit -m "") e envie para o repo remoto do github.
+## Exercício 1 - ALtere a mensagem par algo diferente e registre com git ( add . commit -m "") e envie para o repo remoto do github.
+
+## Exercício 2 - Adicione um segundo botão ao primeiro modal e com ele acione uma segunda função que crie um outro modal com uma mensagem dizendo a hora atual.
 
